@@ -3,6 +3,7 @@ An example of a very simple non-fault tolerant, structured
 hierarchical logical ring P2P network using Python.
 
 ## Usage
+```
 usage: peer.py [-h] [-r ROL] LOCAL_IP LOCAL_PORT PEER_IP PEER_PORT
 
 positional arguments:
@@ -14,7 +15,7 @@ positional arguments:
 options:
   -h, --help         show this help message and exit
   -r ROL, --rol ROL
-
+```
 ## Installation
 Create a python virtual environment and activate it
 ```
